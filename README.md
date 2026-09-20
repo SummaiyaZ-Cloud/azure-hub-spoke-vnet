@@ -145,6 +145,3 @@ Through this project, I gained hands-on experience with:
 
 After completing and documenting the lab, the Azure resources were deleted to prevent unnecessary cloud charges. The screenshots in this repository preserve evidence of the original deployment and configuration.
 
-## Interview Talking Point
-
-> I designed and deployed a hub-and-spoke network architecture in Azure to separate application and database workloads. I connected the Hub and Spoke VNets using VNet Peering and configured Network Security Groups to control traffic between workloads. For the database environment, I created a least-privilege rule allowing traffic from the application network to port 3306. I also used Azure Bastion to establish administrative sessions with the Linux virtual machines and performed private-network connectivity testing. This project gave me practical experience with Azure network segmentation, peering, NSGs, Bastion, and connectivity troubleshooting.
