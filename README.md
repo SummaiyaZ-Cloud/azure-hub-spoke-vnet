@@ -141,7 +141,3 @@ Through this project, I gained hands-on experience with:
 - Using Azure Bastion for secure administrative access
 - Testing and troubleshooting connectivity across Azure virtual networks
 
-## Resource Cleanup
-
-After completing and documenting the lab, the Azure resources were deleted to prevent unnecessary cloud charges. The screenshots in this repository preserve evidence of the original deployment and configuration.
-
