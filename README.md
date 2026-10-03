@@ -128,7 +128,7 @@ The environment was validated by reviewing VNet peering status, confirming succe
 
 Private-IP connectivity testing was also initiated from the application VM toward the database workload to evaluate communication across the network architecture.
 
-## What I Learned
+## Skills Demonstrated
 
 Through this project, I gained hands-on experience with:
 
